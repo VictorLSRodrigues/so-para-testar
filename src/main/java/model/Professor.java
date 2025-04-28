@@ -45,7 +45,7 @@ public class Professor extends Pessoa {
     public void leitura() {
         super.leitura();
         setSalario(Double.parseDouble(JOptionPane.showInputDialog("Digite o seu salário:")));
-        }
+    }
 
     @Override
     public void imprimir() {
