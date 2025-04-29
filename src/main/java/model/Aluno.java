@@ -34,6 +34,7 @@ public class Aluno extends Pessoa {
     @Override
     public void leitura() {
         super.leitura();
+        setCurso(JOptionPane.showInputDialog("Curso:"));
     }
 
     @Override
