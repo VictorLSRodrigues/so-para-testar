@@ -31,8 +31,9 @@ public class Aluno extends Pessoa {
         this.curso = curso;
     }
 
-    public void rleitura() {
-        setCurso(JOptionPane.showInputDialog("Qual o seu curso: "));
+    @Override
+    public void leitura() {
+        super.leitura();
     }
 
     @Override
