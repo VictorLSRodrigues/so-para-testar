@@ -1,20 +1,8 @@
-# Exercicio_34
+[![Github Actions Status for VictorLSRodrigues/so-para-testar](https://github.com/VictorLSRodrigues/CalculadoraCI/workflows/Java%20CI%20with%20Maven/badge.svg)](https://github.com/VictorLSRodrigues/so-para-testar/actions)
+ [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=VictorLSRodrigues_CalculadoraCI&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=VictorLSRodrigues_so-para-testar)
+ [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=VictorLSRodrigues_so-para-testar&metric=coverage)](https://sonarcloud.io/component_measures?id=VictorLSRodrigues_so-para-testarCI&metric=coverage)
+ 
 
-Crie um novo projeto na IDE com a classe Pessoa e seus atributos nome do tipo String e
-idade inteiro. Crie os construtores com e sem parâmetros, get's e set's. Os métodos de leitura
-e imprimir os dados devem usar JOptionPane para exibir os dados. Crie as subclasses de
-pessoa chamada Aluno e Professor. A classe Aluno deve possui o atributo curso do tipo
-String e a classe Professor os atributos salario do tipo double e título do tipo String.
-Sobrescreva e reaproveite os métodos de leitura e imprimir nas classes Aluno e Professor.
-
-Crie o método abstrato getNomeFormatado() em Pessoa que retorna String. Na classe
-professor retorna uma concatenação do título com o nome. Na classe aluno retorna o nome
-em maiúsculo
-
-Crie uma constante estática(static final) para armazenar um valor default para o título de
-professor ("Doutor") e uma outra constante em Aluno para armazenar o curso ("Sistema de
-Informação"). Estes valores default serão utilizados no preenchimento dos dados no método
-leitura.
-
-Crie o programa principal para testar as classe Aluno e Professor. Lembre-se de organizar as
-classe em pacotes.
+#  TestExercicio_34 from my frind :3
+## Sobre
+teste para testar se o codigo ta bom msm
